@@ -1,2 +1,2 @@
 # WeekOneCodeRefactor
-week one homework assignment
+This is out first week's homework
